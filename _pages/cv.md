@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science and Technology, Tsinghua University, 2022 - 2026(expected)
+  * GPA: 3.88/4.0 (ranking 48/187)
+  * A+ courses: Linear Algebra, Discrete Mathematics II, Principles of Signal Processing
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Tsinghua Embodied AI Lab, Tsinghua University
+  * Research Assistant, 2023 - Present
+  * Research on reinforcement learning algorithms for robotic tasks and large language models
+  * Projects:
+  * "A Forget-and-Grow Strategy for Deep Reinforcement Learning Scaling in Continuous Control"(https://arxiv.org/abs/2507.02712) Accepted to ICML 2025
+  * Supervisor: Prof. Huazhe Xu
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Internships
+======
+* Shanghai Qi Zhi Institute, Shanghai, China
+  * Research Intern, 2025 - Present
+  * Supervisor: Prof. Huazhe Xu
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Microsoft Research Asia, Beijing, China
+  * Research Intern, summer 2025
+  * Supervisor: Dr. Xian Zhang
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
